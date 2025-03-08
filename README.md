@@ -1,6 +1,6 @@
-# Project Title
+# Mod Handler (bin)
 
-A brief description of your project, what it does, and its primary goals.
+This is a tool to help you keep track of your mods and create new ones. Download the <a href="https://github.com/PieAreSquared11/ModHandler-code">C# code</a> here.
 
 ## Features
 
